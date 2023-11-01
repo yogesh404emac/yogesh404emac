@@ -2,7 +2,7 @@
 <hr
 <p align="left">
   <h1 align="center">Hi 👋, I'm Yogesh</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">"4 Years of PHP Proficiency 🚀 Embracing the Beauty of Swift in iOS Development"</h3>
 </p>
 
 - 🔭 ...
