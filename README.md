@@ -21,9 +21,7 @@
 
 - ⚡ Fun fact:  I once coded an entire project without coffee, just to see if it's possible! ☕
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh404emac&show_icons=true&locale=en" alt="yogesh404emac" /></p>
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh404emac&" alt="yogesh404emac" /></p>
 
