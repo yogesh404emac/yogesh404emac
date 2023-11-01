@@ -5,21 +5,23 @@
 <h3 align="center">A passionate software engineer from India</h3>
 </p>
 
+- 🔭 ...
 
-🔭 ...
-🌱 I’m currently learning swift and SwiftUI
-👯 I’m looking to find my first position as an iOS developer
-🤔 I’m looking for help with using advanced debugging tools
-💬 Ask me about topics about Swift, PHP, and laravel.
-📫 How to reach me: Email - yogesh404emac@gmail.com |
-😄 Pronouns: He/Him/His
-⚡ Fun fact:  I once coded an entire project without coffee, just to see if it's possible! ☕
+- 🌱 I’m currently learning swift and SwiftUI
+
+- 👯 I’m looking to find my first position as an iOS developer
+  
+- 🤔 I’m looking for help with using advanced debugging tools
+- 
+- 💬 Ask me about topics about Swift, PHP, and laravel.
+  
+- 📫 How to reach me: Email - yogesh404emac@gmail.com |
+
+- 😄 Pronouns: He/Him/His
+
+- ⚡ Fun fact:  I once coded an entire project without coffee, just to see if it's possible! ☕
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <b></b>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
